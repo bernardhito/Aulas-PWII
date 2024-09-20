@@ -6,4 +6,3 @@ CREATE TABLE IF NOT EXISTS usuarios(
     email varchar(100),
     senha varchar(32)
 );
-
